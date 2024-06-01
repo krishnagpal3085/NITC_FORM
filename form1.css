@@ -181,6 +181,9 @@ width: 100vw;
     #main{
         height: 140vh;
     }
+    #form{
+        width: 95%;
+    }
 }
 @media only screen and (max-width:320px){
     #form{
